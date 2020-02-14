@@ -478,7 +478,7 @@ public class WuXingTest1 {
             zhi = "酉";
         } else if (iZhi == 11) {
             zhi = "戌";
-        } else if (iZhi == 12) {
+        } else {
             zhi = "亥";
         }
 
